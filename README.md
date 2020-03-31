@@ -1,2 +1,2 @@
-# Eai mundo git
- segundo repositorio
+# Eai, mundo git-hub
+ segundo repositorio curso
